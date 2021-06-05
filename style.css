@@ -1,0 +1,85 @@
+body {
+  background-image: url('https://images.pexels.com/photos/5669817/pexels-photo-5669817.jpeg?cs=srgb&dl=pexels-mathias-pr-reding-5669817.jpg&fm=jpg');
+  
+ 
+
+}
+#main {
+  text-align: center;
+  background: #D9DDD9;
+  margin: 50px 75px 25px 75px;
+  box-shadow: 20px 20px 30px black;
+  
+}
+h1 {
+  
+  font-family: "Brush Script MT", serif;
+      font-weight: 700;
+      font-size: 5em;
+  text-shadow: 5px 5px 10px white;
+  margin: 0;
+  
+  
+}
+h2 {
+  
+  font-family: "Brush Script MT", serif;
+  font-size: 2em;
+  line-height: 0;
+  text-shadow: 5px 5px 10px white;
+  
+}
+#img-div {
+   text-align: center;
+   display: block;
+   width: 100%;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  box-shadow: 5px 5px 30px black;
+}
+p {
+  
+  font-family: Helvetica;
+}
+#tribute-link {
+  font-family: Helvetica;
+  
+}
+footer {
+  text-align: center;
+  margin: 1px;
+  font-family: sans-serif, serif;
+  color: white;
+  text-shadow: 3px 3px 2px black;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+}
+.quote {
+  margin: auto auto auto auto;
+  font-style: italic;
+}
+
+hr {
+  margin: 0px 200px 0px 200px; 
+  
+}
+#tribute-info {
+  text-align: left;
+  margin: auto 150px auto 150px;
+  
+}
+
+.image2 {
+  margin: auto;
+  box-shadow: 5px 5px 30px black;
+  max-width: 100%;
+  display: block;
+  height: auto;
